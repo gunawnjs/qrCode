@@ -16,7 +16,7 @@
 .prettierignore
 
 design
-images
+# images
 README-template.md
 README.md
 style-guide.md
