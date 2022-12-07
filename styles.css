@@ -21,11 +21,14 @@ a:link{
 h3{
     font-family: 'Outfit';
     font-weight: 700;
+    font-size: 20px;
     text-align: center;
 }
 p{
+    color: var(--grayish-blue);
     font-family: 'Outfit';
     font-weight: 400;
+    font-size: 14px;
     margin-top: 1rem;
     text-align: center;
 }
